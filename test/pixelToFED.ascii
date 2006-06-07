@@ -167,23 +167,23 @@ FED: 17 (barrel-)
 # positive endcap
 #
 FED: 33 (endcap+)
-  E: 0    D: 0,2  B: 0,5 
+  E: 1    D: 1,3  B: 1,6 
 FED: 34 (endcap+)
-  E: 0    D: 0,2  B: 6,11 
+  E: 1    D: 1,3  B: 7,12 
 FED: 35 (endcap+)
-  E: 0    D: 0,2  B: 12,17  
+  E: 1    D: 1,3  B: 13,18  
 FED: 36 (endcap+)
-  E: 0    D: 0,2  B: 18,23 
+  E: 1    D: 1,3  B: 19,24 
 
 #
 # negative endcap
 #
 FED: 37 (endcap-)
-  E: 1    D: 0,2  B: 0,5 
+  E: 2    D: 1,3  B: 1,6 
 FED: 38 (endcap-)
-  E: 1    D: 0,2  B: 6,11 
+  E: 2    D: 1,3  B: 7,12 
 FED: 39 (endcap-)
-  E: 1    D: 0,2  B: 12,17  
+  E: 2    D: 1,3  B: 13,18  
 FED: 40 (endcap-)
-  E: 1    D: 0,2  B: 18,23 
+  E: 2    D: 1,3  B: 19,24 
 

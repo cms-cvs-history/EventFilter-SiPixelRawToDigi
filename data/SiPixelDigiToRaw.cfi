@@ -1,0 +1,3 @@
+  module siPixelRawData = SiPixelDigiToRaw {
+             InputTag src = siPixelDigis	
+  }

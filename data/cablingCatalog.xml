@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!-- Edited By POOL -->
+<!DOCTYPE POOLFILECATALOG SYSTEM "InMemory">
+<POOLFILECATALOG>
+  <File ID="5A454A15-B66D-DB11-8714-000E0C4D1844">
+    <physical>
+      <pfn filetype="POOL_RDBMS" name="sqlite_file:cabling.db"/>
+    </physical>
+    <logical/>
+  </File>
+
+</POOLFILECATALOG>

@@ -4,7 +4,7 @@
 <POOLFILECATALOG>
   <File ID="5A454A15-B66D-DB11-8714-000E0C4D1844">
     <physical>
-      <pfn filetype="POOL_RDBMS" name="sqlite_file:cabling.db"/>
+      <pfn filetype="POOL_RDBMS" name="sqlite_file:../data/cabling.db"/>
     </physical>
     <logical/>
   </File>

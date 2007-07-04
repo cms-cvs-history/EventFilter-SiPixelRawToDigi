@@ -1,5 +1,5 @@
   module siPixelDigis = SiPixelRawToDigi {
     untracked string InputLabel = "siPixelRawData"
     untracked bool Timing = false 
-    untracked bool IncludeErrors = true
+    untracked bool IncludeErrors = false
   }

@@ -85,6 +85,7 @@ void SiPixelDigiToRaw::produce( edm::Event& ev,
     FEDRawData& fedRawData = buffers->FEDData( (**it).id() ); 
     fedRawData = *rawData;
     LogDebug("SiPixelDigiToRaw")<<"size of data in fedRawData: "<<fedRawData.size();
+    delete rawData;
   }
   allWordCounter += formatter.nWords();
   

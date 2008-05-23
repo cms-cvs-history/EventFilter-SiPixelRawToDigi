@@ -1,3 +1,3 @@
   module siPixelRawData = SiPixelDigiToRaw {
-    untracked string InputLabel = "simSiPixelDigis"
+    untracked string InputLabel = "siPixelDigis"
   }
